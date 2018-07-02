@@ -3,3 +3,11 @@ def mothers_day
 end
 
 mothers_day
+
+
+def mothers_day("name")
+  puts"What is your name"
+  gets.chomp
+  puts"Happy Mother's Day, #{name}!"
+end
+
