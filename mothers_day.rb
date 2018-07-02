@@ -5,9 +5,9 @@ end
 mothers_day
 
 
-def mothers_day("name")
+def mothers_day("Beyonce")
   puts"What is your name"
   gets.chomp
-  puts"Happy Mother's Day, #{name}!"
+  puts"Happy Mother's Day, Beyonce!"
 end
 
