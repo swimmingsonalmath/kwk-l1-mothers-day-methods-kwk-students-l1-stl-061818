@@ -7,7 +7,7 @@
 
 def mothers_day
   puts"What is your name"
-  gets.chomp
-  puts"Happy Mother's Day, Beyonce!"
+  gets.chomp = anwser
+  puts"Happy Mother's Day, #{anwser}!"
 end
 mothers_day
